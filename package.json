@@ -1,0 +1,21 @@
+{
+  "name": "introduccion-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damenor-courses/introduccion-node-ts.git"
+  },
+  "keywords": [],
+  "author": "David Menor <damenor.develop@gmai.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damenor-courses/introduccion-node-ts/issues"
+  },
+  "homepage": "https://github.com/damenor-courses/introduccion-node-ts#readme"
+}
